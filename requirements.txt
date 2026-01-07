@@ -1,0 +1,10 @@
+groq
+python-dotenv
+notebook
+jupyter
+langchain
+langchain-community
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+chromadb
